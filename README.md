@@ -7,5 +7,5 @@
 
 #### IOS安装方法
 IOS 用户注意，你必須透過 Cydia Impactor 安裝 ipa 檔案的。
-* [安装方法](https://github.com/betaseeker/bika/blob/master/bika_cg_2_1_1_2.ipa)
+* [安装方法](https://mrmad.com.tw/cydia-impactor)
 * [IOS错误解决](https://mrmad.com.tw/cydia-impactor-error)
